@@ -25,6 +25,6 @@ class Loggers:
 
 
 
-Loggers.log_message("application.log", "User logged in", "INFO")
-Loggers.log_message("application.log", "Failed login attempt", "WARNING")
+# Loggers.log_message("application.log", "User logged in", "INFO")
+# Loggers.log_message("application.log", "Failed login attempt", "WARNING")
 
